@@ -6,8 +6,8 @@ class Test_001_Login:
     base_URL = "https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F"
     username = "admin@yourstore.com"
     password = "admin"
-    expected_login_page_title = "Your store. Login"
-    expected_admin_page_title = "Dashboard / nopCommerce administration"
+    expected_login_page_title = "Your store. Logi"
+    expected_admin_page_title = "Dashboard / nopCommerce administratio"
 
     def test_homePageTitle(self, setup):
         self.driver = setup
@@ -16,6 +16,7 @@ class Test_001_Login:
         if actual_login_page_title == self.expected_login_page_title:
             assert True
         else:
+            self.driver.save_screenshot(".\\Screenshots\\test_homePageTitle.png")
             assert False
 
     def test_loginPage(self, setup):
@@ -29,4 +30,5 @@ class Test_001_Login:
         if actual_admin_page_title == self.expected_admin_page_title:
             assert True
         else:
+            self.driver.save_screenshot(".\\Screenshots\\test_loginPage.png")
             assert False
