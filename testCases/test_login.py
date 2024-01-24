@@ -9,18 +9,17 @@ class Test_001_Login:
     expected_login_page_title = "Your store. Login"
     expected_admin_page_title = "Dashboard / nopCommerce administration"
 
-    def test_homePageTitle(self):
-        self.driver = webdriver.Chrome()
+    def test_homePageTitle(self, setup):
+        self.driver = setup
         self.driver.get(self.base_URL)
         actual_login_page_title = self.driver.title
-        self.driver.close()
         if actual_login_page_title == self.expected_login_page_title:
             assert True
         else:
             assert False
 
-    def test_loginPage(self):
-        self.driver = webdriver.Chrome()
+    def test_loginPage(self, setup):
+        self.driver = setup
         self.driver.get(self.base_URL)
         self.loginPage = LoginPage(self.driver)
         self.loginPage.setUserName(self.username)
