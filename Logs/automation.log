@@ -112,3 +112,154 @@
 01/25/2024 03:57:03 PM - root - INFO - ************ Test running in chrome browser ***************
 01/25/2024 03:57:03 PM - root - INFO - *********** test_homePageTitle *************
 01/25/2024 03:57:08 PM - root - INFO - *********** Pass *****************
+01/25/2024 09:12:02 PM - root - INFO - Test running in chrome browser
+01/25/2024 09:12:02 PM - root - INFO - Test_002_DDT_Login
+01/25/2024 09:12:02 PM - root - INFO - Verifying Deta Driven Login Test
+01/25/2024 09:12:07 PM - root - ERROR - Test Case Failed
+01/25/2024 09:12:11 PM - root - INFO - Test Case Passed
+01/25/2024 09:12:13 PM - root - INFO - Test Case Passed
+01/25/2024 09:12:15 PM - root - INFO - Test Case Passed
+01/25/2024 09:12:16 PM - root - INFO - Test Case Passed
+01/25/2024 09:12:16 PM - root - ERROR - Login Data Driven Test Failed
+01/25/2024 09:17:25 PM - root - INFO - Test running in chrome browser
+01/25/2024 09:17:25 PM - root - INFO - Test_002_DDT_Login
+01/25/2024 09:17:25 PM - root - INFO - Verifying Deta Driven Login Test
+01/25/2024 09:17:30 PM - root - ERROR - Test Case Failed
+01/25/2024 09:17:34 PM - root - INFO - Test Case Passed
+01/25/2024 09:17:36 PM - root - INFO - Test Case Passed
+01/25/2024 09:17:38 PM - root - INFO - Test Case Passed
+01/25/2024 09:17:39 PM - root - INFO - Test Case Passed
+01/25/2024 09:17:39 PM - root - ERROR - Login Data Driven Test Failed
+01/25/2024 09:18:42 PM - root - INFO - Test running in chrome browser
+01/25/2024 09:18:42 PM - root - INFO - Test_002_DDT_Login
+01/25/2024 09:18:42 PM - root - INFO - Verifying Deta Driven Login Test
+01/25/2024 09:18:48 PM - root - INFO - Test Case Passed
+01/25/2024 09:18:52 PM - root - INFO - Test Case Passed
+01/25/2024 09:18:54 PM - root - ERROR - Test Case Failed
+01/25/2024 09:18:55 PM - root - INFO - Test Case Passed
+01/25/2024 09:18:57 PM - root - INFO - Test Case Passed
+01/25/2024 09:18:57 PM - root - ERROR - Login Data Driven Test Failed
+01/25/2024 09:20:15 PM - root - INFO - Test running in chrome browser
+01/25/2024 09:20:15 PM - root - INFO - Test_002_DDT_Login
+01/25/2024 09:20:15 PM - root - INFO - Verifying Deta Driven Login Test
+01/25/2024 09:20:20 PM - root - ERROR - Test Case Failed
+01/25/2024 09:20:24 PM - root - INFO - Test Case Passed
+01/25/2024 09:20:25 PM - root - INFO - Test Case Passed
+01/25/2024 09:20:27 PM - root - INFO - Test Case Passed
+01/25/2024 09:20:29 PM - root - INFO - Test Case Passed
+01/25/2024 09:20:29 PM - root - ERROR - Login Data Driven Test Failed
+01/25/2024 09:21:56 PM - root - INFO - Test running in chrome browser
+01/25/2024 09:21:56 PM - root - INFO - Test_002_DDT_Login
+01/25/2024 09:21:56 PM - root - INFO - Verifying Deta Driven Login Test
+01/25/2024 09:22:01 PM - root - INFO - Test Case Passed
+01/25/2024 09:22:05 PM - root - INFO - Test Case Passed
+01/25/2024 09:22:06 PM - root - INFO - Test Case Passed
+01/25/2024 09:22:08 PM - root - INFO - Test Case Passed
+01/25/2024 09:22:10 PM - root - INFO - Test Case Passed
+01/25/2024 09:22:10 PM - root - ERROR - Login Data Driven Test Passed
+01/25/2024 09:22:10 PM - root - INFO - End of Login Data Driven Testing
+01/25/2024 09:22:10 PM - root - INFO - Completed Test_002_DDT_Login
+01/25/2024 09:23:18 PM - root - INFO - Test running in firefox browser
+01/25/2024 09:23:18 PM - root - INFO - Test_002_DDT_Login
+01/25/2024 09:23:18 PM - root - INFO - Verifying Deta Driven Login Test
+01/25/2024 09:23:24 PM - root - INFO - Test Case Passed
+01/25/2024 09:24:19 PM - root - INFO - Test running in chrome browser
+01/25/2024 09:24:19 PM - root - INFO - Test_002_DDT_Login
+01/25/2024 09:24:19 PM - root - INFO - Verifying Deta Driven Login Test
+01/25/2024 09:24:25 PM - root - INFO - Test Case Passed
+01/25/2024 09:24:28 PM - root - INFO - Test Case Passed
+01/25/2024 09:24:30 PM - root - INFO - Test Case Passed
+01/25/2024 09:24:32 PM - root - INFO - Test Case Passed
+01/25/2024 09:24:33 PM - root - INFO - Test Case Passed
+01/25/2024 09:24:33 PM - root - ERROR - Login Data Driven Test Passed
+01/25/2024 09:24:33 PM - root - INFO - End of Login Data Driven Testing
+01/25/2024 09:24:33 PM - root - INFO - Completed Test_002_DDT_Login
+01/25/2024 09:24:44 PM - root - INFO - Test running in MicrosoftEdge browser
+01/25/2024 09:24:44 PM - root - INFO - Test_002_DDT_Login
+01/25/2024 09:24:44 PM - root - INFO - Verifying Deta Driven Login Test
+01/25/2024 09:24:49 PM - root - INFO - Test Case Passed
+01/25/2024 09:24:53 PM - root - INFO - Test Case Passed
+01/25/2024 09:24:55 PM - root - INFO - Test Case Passed
+01/25/2024 09:24:57 PM - root - INFO - Test Case Passed
+01/25/2024 09:24:58 PM - root - INFO - Test Case Passed
+01/25/2024 09:24:58 PM - root - ERROR - Login Data Driven Test Passed
+01/25/2024 09:24:58 PM - root - INFO - End of Login Data Driven Testing
+01/25/2024 09:24:58 PM - root - INFO - Completed Test_002_DDT_Login
+01/25/2024 09:25:14 PM - root - INFO - Test running in firefox browser
+01/25/2024 09:25:14 PM - root - INFO - Test_002_DDT_Login
+01/25/2024 09:25:14 PM - root - INFO - Verifying Deta Driven Login Test
+01/25/2024 09:25:19 PM - root - INFO - Test Case Passed
+01/25/2024 09:27:59 PM - root - INFO - Test running in firefox browser
+01/25/2024 09:27:59 PM - root - INFO - Test_002_DDT_Login
+01/25/2024 09:27:59 PM - root - INFO - Verifying Deta Driven Login Test
+01/25/2024 09:28:08 PM - root - INFO - Test Case Passed
+01/25/2024 09:28:15 PM - root - INFO - Test Case Passed
+01/25/2024 09:28:21 PM - root - INFO - Test Case Passed
+01/25/2024 09:28:27 PM - root - INFO - Test Case Passed
+01/25/2024 09:28:33 PM - root - INFO - Test Case Passed
+01/25/2024 09:28:33 PM - root - ERROR - Login Data Driven Test Passed
+01/25/2024 09:28:33 PM - root - INFO - End of Login Data Driven Testing
+01/25/2024 09:28:33 PM - root - INFO - Completed Test_002_DDT_Login
+01/25/2024 09:29:16 PM - root - INFO - Test running in firefox browser
+01/25/2024 09:29:16 PM - root - INFO - Test_002_DDT_Login
+01/25/2024 09:29:16 PM - root - INFO - Verifying Deta Driven Login Test
+01/25/2024 09:29:20 PM - root - INFO - Test Case Passed
+01/25/2024 09:29:51 PM - root - INFO - Test running in MicrosoftEdge browser
+01/25/2024 09:29:51 PM - root - INFO - Test_002_DDT_Login
+01/25/2024 09:29:51 PM - root - INFO - Verifying Deta Driven Login Test
+01/25/2024 09:29:57 PM - root - INFO - Test Case Passed
+01/25/2024 09:30:00 PM - root - INFO - Test Case Passed
+01/25/2024 09:30:05 PM - root - INFO - Test Case Passed
+01/25/2024 09:30:11 PM - root - INFO - Test Case Passed
+01/25/2024 09:30:17 PM - root - INFO - Test Case Passed
+01/25/2024 09:30:22 PM - root - ERROR - Login Data Driven Test Passed
+01/25/2024 09:30:22 PM - root - INFO - End of Login Data Driven Testing
+01/25/2024 09:30:22 PM - root - INFO - Completed Test_002_DDT_Login
+01/25/2024 09:30:30 PM - root - INFO - Test running in chrome browser
+01/25/2024 09:30:30 PM - root - INFO - Test_002_DDT_Login
+01/25/2024 09:30:30 PM - root - INFO - Verifying Deta Driven Login Test
+01/25/2024 09:30:35 PM - root - INFO - Test Case Passed
+01/25/2024 09:30:37 PM - root - INFO - Test Case Passed
+01/25/2024 09:30:43 PM - root - INFO - Test Case Passed
+01/25/2024 09:30:49 PM - root - INFO - Test Case Passed
+01/25/2024 09:30:55 PM - root - INFO - Test Case Passed
+01/25/2024 09:31:00 PM - root - ERROR - Login Data Driven Test Passed
+01/25/2024 09:31:00 PM - root - INFO - End of Login Data Driven Testing
+01/25/2024 09:31:00 PM - root - INFO - Completed Test_002_DDT_Login
+01/25/2024 09:31:12 PM - root - INFO - Test running in firefox browser
+01/25/2024 09:31:12 PM - root - INFO - Test_002_DDT_Login
+01/25/2024 09:31:12 PM - root - INFO - Verifying Deta Driven Login Test
+01/25/2024 09:31:16 PM - root - INFO - Test Case Passed
+01/25/2024 09:32:06 PM - root - INFO - Test running in chrome browser
+01/25/2024 09:32:06 PM - root - INFO - Test_002_DDT_Login
+01/25/2024 09:32:06 PM - root - INFO - Verifying Deta Driven Login Test
+01/25/2024 09:32:11 PM - root - INFO - Test Case Passed
+01/25/2024 09:32:14 PM - root - INFO - Test Case Passed
+01/25/2024 09:32:14 PM - root - INFO - Test Case Passed
+01/25/2024 09:32:15 PM - root - INFO - Test Case Passed
+01/25/2024 09:32:16 PM - root - INFO - Test Case Passed
+01/25/2024 09:32:16 PM - root - ERROR - Login Data Driven Test Passed
+01/25/2024 09:32:16 PM - root - INFO - End of Login Data Driven Testing
+01/25/2024 09:32:16 PM - root - INFO - Completed Test_002_DDT_Login
+01/25/2024 09:32:43 PM - root - INFO - Test running in chrome browser
+01/25/2024 09:32:43 PM - root - INFO - Test_002_DDT_Login
+01/25/2024 09:32:43 PM - root - INFO - Verifying Deta Driven Login Test
+01/25/2024 09:32:48 PM - root - INFO - Test Case Passed
+01/25/2024 09:32:50 PM - root - INFO - Test Case Passed
+01/25/2024 09:32:51 PM - root - INFO - Test Case Passed
+01/25/2024 09:32:52 PM - root - INFO - Test Case Passed
+01/25/2024 09:32:52 PM - root - INFO - Test Case Passed
+01/25/2024 09:32:52 PM - root - ERROR - Login Data Driven Test Passed
+01/25/2024 09:32:52 PM - root - INFO - End of Login Data Driven Testing
+01/25/2024 09:32:52 PM - root - INFO - Completed Test_002_DDT_Login
+01/25/2024 09:47:41 PM - root - INFO - Test running in chrome browser
+01/25/2024 09:47:41 PM - root - INFO - Test_002_DDT_Login
+01/25/2024 09:47:41 PM - root - INFO - Verifying Deta Driven Login Test
+01/25/2024 09:47:46 PM - root - INFO - Test Case Passed
+01/25/2024 09:47:48 PM - root - INFO - Test Case Passed
+01/25/2024 09:47:49 PM - root - INFO - Test Case Passed
+01/25/2024 09:47:50 PM - root - INFO - Test Case Passed
+01/25/2024 09:47:51 PM - root - INFO - Test Case Passed
+01/25/2024 09:47:51 PM - root - ERROR - Login Data Driven Test Passed
+01/25/2024 09:47:51 PM - root - INFO - End of Login Data Driven Testing
+01/25/2024 09:47:51 PM - root - INFO - Completed Test_002_DDT_Login
