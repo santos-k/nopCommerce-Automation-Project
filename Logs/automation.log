@@ -8,3 +8,72 @@
 01/25/2024 10:28:28 AM - root - INFO - *********** Pass *************
 01/25/2024 10:28:29 AM - root - INFO - *********** test_loginPageTitle *************
 01/25/2024 10:28:34 AM - root - ERROR - ************ Fail ****************
+01/25/2024 11:10:03 AM - root - INFO - *********** Test_001_Login *************
+01/25/2024 11:10:03 AM - root - INFO - *********** test_homePageTitle *************
+01/25/2024 11:10:07 AM - root - INFO - *********** Pass *************
+01/25/2024 11:10:14 AM - root - INFO - *********** test_loginPageTitle *************
+01/25/2024 11:11:15 AM - root - ERROR - ************ Fail ****************
+01/25/2024 11:12:06 AM - root - INFO - *********** Test_001_Login *************
+01/25/2024 11:12:06 AM - root - INFO - *********** test_homePageTitle *************
+01/25/2024 11:12:07 AM - root - INFO - *********** Pass *************
+01/25/2024 11:12:11 AM - root - INFO - *********** test_loginPageTitle *************
+01/25/2024 11:12:17 AM - root - ERROR - ************ Fail ****************
+01/25/2024 11:17:32 AM - root - INFO - *********** Test_001_Login *************
+01/25/2024 11:17:32 AM - root - INFO - *********** test_homePageTitle *************
+01/25/2024 11:17:34 AM - root - INFO - *********** Pass *************
+01/25/2024 11:17:36 AM - root - INFO - *********** test_loginPageTitle *************
+01/25/2024 11:17:42 AM - root - ERROR - ************ Fail ****************
+01/25/2024 11:26:19 AM - root - INFO - *********** Test_001_Login *************
+01/25/2024 11:26:19 AM - root - INFO - *********** test_homePageTitle *************
+01/25/2024 11:26:22 AM - root - INFO - *********** Pass *************
+01/25/2024 11:26:24 AM - root - INFO - *********** test_loginPageTitle *************
+01/25/2024 11:26:30 AM - root - INFO - *********** Pass *****************
+01/25/2024 11:47:12 AM - root - INFO - *********** Test_001_Login *************
+01/25/2024 11:47:12 AM - root - INFO - *********** test_homePageTitle *************
+01/25/2024 11:47:14 AM - root - INFO - *********** Pass *************
+01/25/2024 11:47:31 AM - root - INFO - *********** Test_001_Login *************
+01/25/2024 11:47:31 AM - root - INFO - *********** test_homePageTitle *************
+01/25/2024 11:47:33 AM - root - INFO - *********** Pass *************
+01/25/2024 11:47:34 AM - root - INFO - *********** test_loginPageTitle *************
+01/25/2024 11:47:41 AM - root - INFO - *********** Pass *****************
+01/25/2024 11:51:37 AM - root - INFO - ************ Test running in chrome browser ***************
+01/25/2024 11:51:37 AM - root - INFO - *********** Test_001_Login *************
+01/25/2024 11:51:37 AM - root - INFO - *********** test_homePageTitle *************
+01/25/2024 11:51:39 AM - root - INFO - *********** Pass *************
+01/25/2024 11:52:07 AM - root - INFO - ************ Test running in chrome browser ***************
+01/25/2024 11:52:07 AM - root - INFO - *********** Test_001_Login *************
+01/25/2024 11:52:07 AM - root - INFO - *********** test_homePageTitle *************
+01/25/2024 11:52:09 AM - root - INFO - *********** Pass *************
+01/25/2024 11:52:11 AM - root - INFO - ************ Test running in chrome browser ***************
+01/25/2024 11:52:16 AM - root - INFO - *********** Pass *****************
+01/25/2024 11:53:09 AM - root - INFO - ************ Test running in chrome browser ***************
+01/25/2024 11:53:09 AM - root - INFO - *********** Test_001_Login *************
+01/25/2024 11:53:09 AM - root - INFO - *********** test_homePageTitle *************
+01/25/2024 11:53:11 AM - root - INFO - *********** Pass *************
+01/25/2024 11:53:12 AM - root - INFO - ************ Test running in chrome browser ***************
+01/25/2024 11:53:12 AM - root - INFO - *********** test_homePageTitle *************
+01/25/2024 11:53:18 AM - root - INFO - *********** Pass *****************
+01/25/2024 12:01:52 PM - root - INFO - ************ Test running in chrome browser ***************
+01/25/2024 12:01:52 PM - root - INFO - *********** test_homePageTitle *************
+01/25/2024 12:01:54 PM - root - INFO - *********** Pass *************
+01/25/2024 12:01:56 PM - root - INFO - ************ Test running in chrome browser ***************
+01/25/2024 12:01:56 PM - root - INFO - *********** test_homePageTitle *************
+01/25/2024 12:02:02 PM - root - INFO - *********** Pass *****************
+01/25/2024 12:02:40 PM - root - INFO - ************ Test running in firefox browser ***************
+01/25/2024 12:02:40 PM - root - INFO - *********** test_homePageTitle *************
+01/25/2024 12:02:42 PM - root - INFO - *********** Pass *************
+01/25/2024 12:02:49 PM - root - INFO - ************ Test running in firefox browser ***************
+01/25/2024 12:02:49 PM - root - INFO - *********** test_homePageTitle *************
+01/25/2024 12:02:54 PM - root - INFO - *********** Pass *****************
+01/25/2024 12:03:06 PM - root - INFO - ************ Test running in MicrosoftEdge browser ***************
+01/25/2024 12:03:06 PM - root - INFO - *********** test_homePageTitle *************
+01/25/2024 12:03:07 PM - root - INFO - *********** Pass *************
+01/25/2024 12:03:11 PM - root - INFO - ************ Test running in MicrosoftEdge browser ***************
+01/25/2024 12:03:11 PM - root - INFO - *********** test_homePageTitle *************
+01/25/2024 12:03:16 PM - root - INFO - *********** Pass *****************
+01/25/2024 12:03:36 PM - root - INFO - ************ Test running in MicrosoftEdge browser ***************
+01/25/2024 12:03:36 PM - root - INFO - *********** test_homePageTitle *************
+01/25/2024 12:03:38 PM - root - INFO - *********** Pass *************
+01/25/2024 12:03:41 PM - root - INFO - ************ Test running in MicrosoftEdge browser ***************
+01/25/2024 12:03:41 PM - root - INFO - *********** test_homePageTitle *************
+01/25/2024 12:03:46 PM - root - ERROR - ************ Fail ****************

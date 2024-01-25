@@ -10,9 +10,9 @@ class Test_001_Login:
     logger = LogGen.loggen()
 
     def test_homePageTitle(self, setup):
-        self.logger.info("*********** Test_001_Login *************")
-        self.logger.info("*********** test_homePageTitle *************")
         self.driver = setup
+        self.logger.info(f"************ Test running in {self.driver.capabilities['browserName']} browser ***************")
+        self.logger.info("*********** test_homePageTitle *************")
         self.driver.get(self.base_URL)
         actual_login_page_title = self.driver.title
         if actual_login_page_title == "Your store. Login":
@@ -24,15 +24,16 @@ class Test_001_Login:
             assert False
 
     def test_loginPageTitle(self, setup):
-        self.logger.info("*********** test_loginPageTitle *************")
         self.driver = setup
+        self.logger.info(f"************ Test running in {self.driver.capabilities['browserName']} browser ***************")
+        self.logger.info("*********** test_homePageTitle *************")
         self.driver.get(self.base_URL)
         self.loginPage = LoginPage(self.driver)
         self.loginPage.setUserName(self.username)
         self.loginPage.setPassword(self.password)
         self.loginPage.clickLogin()
         actual_admin_page_title = self.driver.title
-        if actual_admin_page_title == "Dashboard / nopCommerce administratio":
+        if actual_admin_page_title == "Dashboard / nopCommerce administration":
             self.logger.info("*********** Pass *****************")
             assert True
         else:
