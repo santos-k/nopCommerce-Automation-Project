@@ -379,3 +379,531 @@ The new customer has been added successfully.
 01/27/2024 11:10:40 PM - root - ERROR - Test Case Failed.
 01/27/2024 11:10:40 PM - root - ERROR - Something went wrong.
 01/27/2024 11:10:40 PM - root - INFO - Test Completed.
+01/28/2024 12:27:09 AM - root - INFO - Test_AddNewCustomer Started...
+01/28/2024 12:27:09 AM - root - INFO - Test_AddNewCustomer Started...
+01/28/2024 12:27:09 AM - root - INFO - Test_AddNewCustomer Started...
+01/28/2024 12:27:09 AM - root - INFO - Test_AddNewCustomer Started...
+01/28/2024 12:27:09 AM - root - INFO - Setup of Test Add New Customer Started...
+01/28/2024 12:27:09 AM - root - INFO - Setup of Test Add New Customer Started...
+01/28/2024 12:27:09 AM - root - INFO - Setup of Test Add New Customer Started...
+01/28/2024 12:27:09 AM - root - INFO - Setup of Test Add New Customer Started...
+01/28/2024 12:27:09 AM - root - INFO - Testing in MicrosoftEdge browser
+01/28/2024 12:27:09 AM - root - INFO - Testing in MicrosoftEdge browser
+01/28/2024 12:27:09 AM - root - INFO - Testing in MicrosoftEdge browser
+01/28/2024 12:27:09 AM - root - INFO - Testing in MicrosoftEdge browser
+01/28/2024 12:27:15 AM - root - INFO - Log in successful
+01/28/2024 12:27:15 AM - root - INFO - Log in successful
+01/28/2024 12:27:15 AM - root - INFO - Log in successful
+01/28/2024 12:27:15 AM - root - INFO - Log in successful
+01/28/2024 12:27:15 AM - root - INFO - Setup completed
+01/28/2024 12:27:15 AM - root - INFO - Setup completed
+01/28/2024 12:27:15 AM - root - INFO - Setup completed
+01/28/2024 12:27:15 AM - root - INFO - Setup completed
+01/28/2024 12:27:15 AM - root - INFO - Add New Customer Started...
+01/28/2024 12:27:15 AM - root - INFO - Add New Customer Started...
+01/28/2024 12:27:15 AM - root - INFO - Add New Customer Started...
+01/28/2024 12:27:15 AM - root - INFO - Add New Customer Started...
+01/28/2024 12:27:18 AM - root - INFO - Providing customer details
+01/28/2024 12:27:18 AM - root - INFO - Providing customer details
+01/28/2024 12:27:18 AM - root - INFO - Providing customer details
+01/28/2024 12:27:18 AM - root - INFO - Providing customer details
+01/28/2024 12:27:18 AM - root - INFO - User Data : {'first_name': 'Arun', 'last_name': 'Singh', 'email': 'arun_singh868@gmail.com', 'password': 'zd2aXcho', 'gender': 'Male', 'birth_date': '04-22-2005', 'company_name': 'HCL', 'comment': 'Random comment for user Arun Singh', 'tax_exempt': False, 'manager_vendor': '1', 'account_status': True, 'newsletter': ['Test store 2'], 'customer_role': ['Guests']}
+01/28/2024 12:27:18 AM - root - INFO - User Data : {'first_name': 'Arun', 'last_name': 'Singh', 'email': 'arun_singh868@gmail.com', 'password': 'zd2aXcho', 'gender': 'Male', 'birth_date': '04-22-2005', 'company_name': 'HCL', 'comment': 'Random comment for user Arun Singh', 'tax_exempt': False, 'manager_vendor': '1', 'account_status': True, 'newsletter': ['Test store 2'], 'customer_role': ['Guests']}
+01/28/2024 12:27:18 AM - root - INFO - User Data : {'first_name': 'Arun', 'last_name': 'Singh', 'email': 'arun_singh868@gmail.com', 'password': 'zd2aXcho', 'gender': 'Male', 'birth_date': '04-22-2005', 'company_name': 'HCL', 'comment': 'Random comment for user Arun Singh', 'tax_exempt': False, 'manager_vendor': '1', 'account_status': True, 'newsletter': ['Test store 2'], 'customer_role': ['Guests']}
+01/28/2024 12:27:18 AM - root - INFO - User Data : {'first_name': 'Arun', 'last_name': 'Singh', 'email': 'arun_singh868@gmail.com', 'password': 'zd2aXcho', 'gender': 'Male', 'birth_date': '04-22-2005', 'company_name': 'HCL', 'comment': 'Random comment for user Arun Singh', 'tax_exempt': False, 'manager_vendor': '1', 'account_status': True, 'newsletter': ['Test store 2'], 'customer_role': ['Guests']}
+01/28/2024 12:27:22 AM - root - INFO - Saving customer info...
+01/28/2024 12:27:22 AM - root - INFO - Saving customer info...
+01/28/2024 12:27:22 AM - root - INFO - Saving customer info...
+01/28/2024 12:27:22 AM - root - INFO - Saving customer info...
+01/28/2024 12:27:22 AM - root - INFO - Alert On Save: ×
+The new customer has been added successfully.
+01/28/2024 12:27:22 AM - root - INFO - Alert On Save: ×
+The new customer has been added successfully.
+01/28/2024 12:27:22 AM - root - INFO - Alert On Save: ×
+The new customer has been added successfully.
+01/28/2024 12:27:22 AM - root - INFO - Alert On Save: ×
+The new customer has been added successfully.
+01/28/2024 12:27:22 AM - root - INFO - Test Passed
+01/28/2024 12:27:22 AM - root - INFO - Test Passed
+01/28/2024 12:27:22 AM - root - INFO - Test Passed
+01/28/2024 12:27:22 AM - root - INFO - Test Passed
+01/28/2024 12:27:22 AM - root - INFO - Test completed
+01/28/2024 12:27:22 AM - root - INFO - Test completed
+01/28/2024 12:27:22 AM - root - INFO - Test completed
+01/28/2024 12:27:22 AM - root - INFO - Test completed
+01/28/2024 12:27:26 AM - root - INFO - Test_SearchCustomer__003
+01/28/2024 12:27:26 AM - root - INFO - Test_SearchCustomer__003
+01/28/2024 12:27:26 AM - root - INFO - Test_SearchCustomer__003
+01/28/2024 12:27:26 AM - root - INFO - Test_SearchCustomer__003
+01/28/2024 12:27:26 AM - root - INFO - Setup started
+01/28/2024 12:27:26 AM - root - INFO - Setup started
+01/28/2024 12:27:26 AM - root - INFO - Setup started
+01/28/2024 12:27:26 AM - root - INFO - Setup started
+01/28/2024 12:27:31 AM - root - INFO - Setup Completed
+01/28/2024 12:27:31 AM - root - INFO - Setup Completed
+01/28/2024 12:27:31 AM - root - INFO - Setup Completed
+01/28/2024 12:27:31 AM - root - INFO - Setup Completed
+01/28/2024 12:27:31 AM - root - INFO - Test Case: Search by Email
+01/28/2024 12:27:31 AM - root - INFO - Test Case: Search by Email
+01/28/2024 12:27:31 AM - root - INFO - Test Case: Search by Email
+01/28/2024 12:27:31 AM - root - INFO - Test Case: Search by Email
+01/28/2024 12:27:39 AM - root - INFO - Test Case Passed.
+01/28/2024 12:27:39 AM - root - INFO - Test Case Passed.
+01/28/2024 12:27:39 AM - root - INFO - Test Case Passed.
+01/28/2024 12:27:39 AM - root - INFO - Test Case Passed.
+01/28/2024 12:27:39 AM - root - INFO - Remark: data not found and it's expected.
+01/28/2024 12:27:39 AM - root - INFO - Remark: data not found and it's expected.
+01/28/2024 12:27:39 AM - root - INFO - Remark: data not found and it's expected.
+01/28/2024 12:27:39 AM - root - INFO - Remark: data not found and it's expected.
+01/28/2024 12:27:40 AM - root - INFO - Test Completed.
+01/28/2024 12:27:40 AM - root - INFO - Test Completed.
+01/28/2024 12:27:40 AM - root - INFO - Test Completed.
+01/28/2024 12:27:40 AM - root - INFO - Test Completed.
+01/28/2024 12:27:43 AM - root - INFO - Test_SearchCustomer__003
+01/28/2024 12:27:43 AM - root - INFO - Test_SearchCustomer__003
+01/28/2024 12:27:43 AM - root - INFO - Test_SearchCustomer__003
+01/28/2024 12:27:43 AM - root - INFO - Test_SearchCustomer__003
+01/28/2024 12:27:43 AM - root - INFO - Setup started
+01/28/2024 12:27:43 AM - root - INFO - Setup started
+01/28/2024 12:27:43 AM - root - INFO - Setup started
+01/28/2024 12:27:43 AM - root - INFO - Setup started
+01/28/2024 12:27:49 AM - root - INFO - Setup Completed
+01/28/2024 12:27:49 AM - root - INFO - Setup Completed
+01/28/2024 12:27:49 AM - root - INFO - Setup Completed
+01/28/2024 12:27:49 AM - root - INFO - Setup Completed
+01/28/2024 12:27:49 AM - root - INFO - Test Case: Search by FirstName
+01/28/2024 12:27:49 AM - root - INFO - Test Case: Search by FirstName
+01/28/2024 12:27:49 AM - root - INFO - Test Case: Search by FirstName
+01/28/2024 12:27:49 AM - root - INFO - Test Case: Search by FirstName
+01/28/2024 12:27:51 AM - root - INFO - Test Case Passed.
+01/28/2024 12:27:51 AM - root - INFO - Test Case Passed.
+01/28/2024 12:27:51 AM - root - INFO - Test Case Passed.
+01/28/2024 12:27:51 AM - root - INFO - Test Case Passed.
+01/28/2024 12:27:51 AM - root - INFO - Remark: data not found and it's expected.
+01/28/2024 12:27:51 AM - root - INFO - Remark: data not found and it's expected.
+01/28/2024 12:27:51 AM - root - INFO - Remark: data not found and it's expected.
+01/28/2024 12:27:51 AM - root - INFO - Remark: data not found and it's expected.
+01/28/2024 12:27:51 AM - root - INFO - Test Completed.
+01/28/2024 12:27:51 AM - root - INFO - Test Completed.
+01/28/2024 12:27:51 AM - root - INFO - Test Completed.
+01/28/2024 12:27:51 AM - root - INFO - Test Completed.
+01/28/2024 12:27:55 AM - root - INFO - ************ Test running in MicrosoftEdge browser ***************
+01/28/2024 12:27:55 AM - root - INFO - ************ Test running in MicrosoftEdge browser ***************
+01/28/2024 12:27:55 AM - root - INFO - ************ Test running in MicrosoftEdge browser ***************
+01/28/2024 12:27:55 AM - root - INFO - ************ Test running in MicrosoftEdge browser ***************
+01/28/2024 12:27:55 AM - root - INFO - *********** test_homePageTitle *************
+01/28/2024 12:27:55 AM - root - INFO - *********** test_homePageTitle *************
+01/28/2024 12:27:55 AM - root - INFO - *********** test_homePageTitle *************
+01/28/2024 12:27:55 AM - root - INFO - *********** test_homePageTitle *************
+01/28/2024 12:27:58 AM - root - INFO - *********** Pass *****************
+01/28/2024 12:27:58 AM - root - INFO - *********** Pass *****************
+01/28/2024 12:27:58 AM - root - INFO - *********** Pass *****************
+01/28/2024 12:27:58 AM - root - INFO - *********** Pass *****************
+01/28/2024 12:33:42 AM - root - INFO - Test_SearchCustomer__003
+01/28/2024 12:33:42 AM - root - INFO - Test_SearchCustomer__003
+01/28/2024 12:33:42 AM - root - INFO - Test_SearchCustomer__003
+01/28/2024 12:33:42 AM - root - INFO - Test_SearchCustomer__003
+01/28/2024 12:33:42 AM - root - INFO - Setup started
+01/28/2024 12:33:42 AM - root - INFO - Setup started
+01/28/2024 12:33:42 AM - root - INFO - Setup started
+01/28/2024 12:33:42 AM - root - INFO - Setup started
+01/28/2024 12:33:49 AM - root - INFO - Setup Completed
+01/28/2024 12:33:49 AM - root - INFO - Setup Completed
+01/28/2024 12:33:49 AM - root - INFO - Setup Completed
+01/28/2024 12:33:49 AM - root - INFO - Setup Completed
+01/28/2024 12:33:49 AM - root - INFO - Test Case: Search by Email
+01/28/2024 12:33:49 AM - root - INFO - Test Case: Search by Email
+01/28/2024 12:33:49 AM - root - INFO - Test Case: Search by Email
+01/28/2024 12:33:49 AM - root - INFO - Test Case: Search by Email
+01/28/2024 12:33:50 AM - root - INFO - Test Case Passed.
+01/28/2024 12:33:50 AM - root - INFO - Test Case Passed.
+01/28/2024 12:33:50 AM - root - INFO - Test Case Passed.
+01/28/2024 12:33:50 AM - root - INFO - Test Case Passed.
+01/28/2024 12:33:50 AM - root - INFO - Remark: data not found and it's expected.
+01/28/2024 12:33:50 AM - root - INFO - Remark: data not found and it's expected.
+01/28/2024 12:33:50 AM - root - INFO - Remark: data not found and it's expected.
+01/28/2024 12:33:50 AM - root - INFO - Remark: data not found and it's expected.
+01/28/2024 12:33:51 AM - root - INFO - Test Completed.
+01/28/2024 12:33:51 AM - root - INFO - Test Completed.
+01/28/2024 12:33:51 AM - root - INFO - Test Completed.
+01/28/2024 12:33:51 AM - root - INFO - Test Completed.
+01/28/2024 12:33:54 AM - root - INFO - Test_SearchCustomer__003
+01/28/2024 12:33:54 AM - root - INFO - Test_SearchCustomer__003
+01/28/2024 12:33:54 AM - root - INFO - Test_SearchCustomer__003
+01/28/2024 12:33:54 AM - root - INFO - Test_SearchCustomer__003
+01/28/2024 12:33:54 AM - root - INFO - Setup started
+01/28/2024 12:33:54 AM - root - INFO - Setup started
+01/28/2024 12:33:54 AM - root - INFO - Setup started
+01/28/2024 12:33:54 AM - root - INFO - Setup started
+01/28/2024 12:33:59 AM - root - INFO - Setup Completed
+01/28/2024 12:33:59 AM - root - INFO - Setup Completed
+01/28/2024 12:33:59 AM - root - INFO - Setup Completed
+01/28/2024 12:33:59 AM - root - INFO - Setup Completed
+01/28/2024 12:33:59 AM - root - INFO - Test Case: Search by FirstName
+01/28/2024 12:33:59 AM - root - INFO - Test Case: Search by FirstName
+01/28/2024 12:33:59 AM - root - INFO - Test Case: Search by FirstName
+01/28/2024 12:33:59 AM - root - INFO - Test Case: Search by FirstName
+01/28/2024 12:34:01 AM - root - INFO - Test Case Passed.
+01/28/2024 12:34:01 AM - root - INFO - Test Case Passed.
+01/28/2024 12:34:01 AM - root - INFO - Test Case Passed.
+01/28/2024 12:34:01 AM - root - INFO - Test Case Passed.
+01/28/2024 12:34:01 AM - root - INFO - Remark: data not found and it's expected.
+01/28/2024 12:34:01 AM - root - INFO - Remark: data not found and it's expected.
+01/28/2024 12:34:01 AM - root - INFO - Remark: data not found and it's expected.
+01/28/2024 12:34:01 AM - root - INFO - Remark: data not found and it's expected.
+01/28/2024 12:34:01 AM - root - INFO - Test Completed.
+01/28/2024 12:34:01 AM - root - INFO - Test Completed.
+01/28/2024 12:34:01 AM - root - INFO - Test Completed.
+01/28/2024 12:34:01 AM - root - INFO - Test Completed.
+01/28/2024 12:34:05 AM - root - INFO - Test_SearchCustomer__003
+01/28/2024 12:34:05 AM - root - INFO - Test_SearchCustomer__003
+01/28/2024 12:34:05 AM - root - INFO - Test_SearchCustomer__003
+01/28/2024 12:34:05 AM - root - INFO - Test_SearchCustomer__003
+01/28/2024 12:34:05 AM - root - INFO - Setup started
+01/28/2024 12:34:05 AM - root - INFO - Setup started
+01/28/2024 12:34:05 AM - root - INFO - Setup started
+01/28/2024 12:34:05 AM - root - INFO - Setup started
+01/28/2024 12:34:11 AM - root - INFO - Setup Completed
+01/28/2024 12:34:11 AM - root - INFO - Setup Completed
+01/28/2024 12:34:11 AM - root - INFO - Setup Completed
+01/28/2024 12:34:11 AM - root - INFO - Setup Completed
+01/28/2024 12:34:11 AM - root - INFO - Test Case: Search by LastName
+01/28/2024 12:34:11 AM - root - INFO - Test Case: Search by LastName
+01/28/2024 12:34:11 AM - root - INFO - Test Case: Search by LastName
+01/28/2024 12:34:11 AM - root - INFO - Test Case: Search by LastName
+01/28/2024 12:34:12 AM - root - INFO - Test Case Passed.
+01/28/2024 12:34:12 AM - root - INFO - Test Case Passed.
+01/28/2024 12:34:12 AM - root - INFO - Test Case Passed.
+01/28/2024 12:34:12 AM - root - INFO - Test Case Passed.
+01/28/2024 12:34:12 AM - root - INFO - Remark: data not found and it's expected.
+01/28/2024 12:34:12 AM - root - INFO - Remark: data not found and it's expected.
+01/28/2024 12:34:12 AM - root - INFO - Remark: data not found and it's expected.
+01/28/2024 12:34:12 AM - root - INFO - Remark: data not found and it's expected.
+01/28/2024 12:34:12 AM - root - INFO - Test Completed.
+01/28/2024 12:34:12 AM - root - INFO - Test Completed.
+01/28/2024 12:34:12 AM - root - INFO - Test Completed.
+01/28/2024 12:34:12 AM - root - INFO - Test Completed.
+01/28/2024 12:34:16 AM - root - INFO - Test_SearchCustomer__003
+01/28/2024 12:34:16 AM - root - INFO - Test_SearchCustomer__003
+01/28/2024 12:34:16 AM - root - INFO - Test_SearchCustomer__003
+01/28/2024 12:34:16 AM - root - INFO - Test_SearchCustomer__003
+01/28/2024 12:34:16 AM - root - INFO - Setup started
+01/28/2024 12:34:16 AM - root - INFO - Setup started
+01/28/2024 12:34:16 AM - root - INFO - Setup started
+01/28/2024 12:34:16 AM - root - INFO - Setup started
+01/28/2024 12:34:21 AM - root - INFO - Setup Completed
+01/28/2024 12:34:21 AM - root - INFO - Setup Completed
+01/28/2024 12:34:21 AM - root - INFO - Setup Completed
+01/28/2024 12:34:21 AM - root - INFO - Setup Completed
+01/28/2024 12:34:21 AM - root - INFO - Test Case: Search by BirthDate
+01/28/2024 12:34:21 AM - root - INFO - Test Case: Search by BirthDate
+01/28/2024 12:34:21 AM - root - INFO - Test Case: Search by BirthDate
+01/28/2024 12:34:21 AM - root - INFO - Test Case: Search by BirthDate
+01/28/2024 12:34:23 AM - root - INFO - Test Case Passed.
+01/28/2024 12:34:23 AM - root - INFO - Test Case Passed.
+01/28/2024 12:34:23 AM - root - INFO - Test Case Passed.
+01/28/2024 12:34:23 AM - root - INFO - Test Case Passed.
+01/28/2024 12:34:23 AM - root - INFO - Remark: data not found and it's expected.
+01/28/2024 12:34:23 AM - root - INFO - Remark: data not found and it's expected.
+01/28/2024 12:34:23 AM - root - INFO - Remark: data not found and it's expected.
+01/28/2024 12:34:23 AM - root - INFO - Remark: data not found and it's expected.
+01/28/2024 12:34:23 AM - root - INFO - Test Completed.
+01/28/2024 12:34:23 AM - root - INFO - Test Completed.
+01/28/2024 12:34:23 AM - root - INFO - Test Completed.
+01/28/2024 12:34:23 AM - root - INFO - Test Completed.
+01/28/2024 12:34:27 AM - root - INFO - Test_SearchCustomer__003
+01/28/2024 12:34:27 AM - root - INFO - Test_SearchCustomer__003
+01/28/2024 12:34:27 AM - root - INFO - Test_SearchCustomer__003
+01/28/2024 12:34:27 AM - root - INFO - Test_SearchCustomer__003
+01/28/2024 12:34:27 AM - root - INFO - Setup started
+01/28/2024 12:34:27 AM - root - INFO - Setup started
+01/28/2024 12:34:27 AM - root - INFO - Setup started
+01/28/2024 12:34:27 AM - root - INFO - Setup started
+01/28/2024 12:34:33 AM - root - INFO - Setup Completed
+01/28/2024 12:34:33 AM - root - INFO - Setup Completed
+01/28/2024 12:34:33 AM - root - INFO - Setup Completed
+01/28/2024 12:34:33 AM - root - INFO - Setup Completed
+01/28/2024 12:34:33 AM - root - INFO - Test Case: Search by RegistrationDate
+01/28/2024 12:34:33 AM - root - INFO - Test Case: Search by RegistrationDate
+01/28/2024 12:34:33 AM - root - INFO - Test Case: Search by RegistrationDate
+01/28/2024 12:34:33 AM - root - INFO - Test Case: Search by RegistrationDate
+01/28/2024 12:34:35 AM - root - INFO - Test Case Passed.
+01/28/2024 12:34:35 AM - root - INFO - Test Case Passed.
+01/28/2024 12:34:35 AM - root - INFO - Test Case Passed.
+01/28/2024 12:34:35 AM - root - INFO - Test Case Passed.
+01/28/2024 12:34:35 AM - root - INFO - Remark: data not found and it's expected.
+01/28/2024 12:34:35 AM - root - INFO - Remark: data not found and it's expected.
+01/28/2024 12:34:35 AM - root - INFO - Remark: data not found and it's expected.
+01/28/2024 12:34:35 AM - root - INFO - Remark: data not found and it's expected.
+01/28/2024 12:34:35 AM - root - INFO - Test Completed.
+01/28/2024 12:34:35 AM - root - INFO - Test Completed.
+01/28/2024 12:34:35 AM - root - INFO - Test Completed.
+01/28/2024 12:34:35 AM - root - INFO - Test Completed.
+01/28/2024 12:34:39 AM - root - INFO - Test_SearchCustomer__003
+01/28/2024 12:34:39 AM - root - INFO - Test_SearchCustomer__003
+01/28/2024 12:34:39 AM - root - INFO - Test_SearchCustomer__003
+01/28/2024 12:34:39 AM - root - INFO - Test_SearchCustomer__003
+01/28/2024 12:34:39 AM - root - INFO - Setup started
+01/28/2024 12:34:39 AM - root - INFO - Setup started
+01/28/2024 12:34:39 AM - root - INFO - Setup started
+01/28/2024 12:34:39 AM - root - INFO - Setup started
+01/28/2024 12:34:43 AM - root - INFO - Setup Completed
+01/28/2024 12:34:43 AM - root - INFO - Setup Completed
+01/28/2024 12:34:43 AM - root - INFO - Setup Completed
+01/28/2024 12:34:43 AM - root - INFO - Setup Completed
+01/28/2024 12:34:43 AM - root - INFO - Test Case: Search by LastActivityDate
+01/28/2024 12:34:43 AM - root - INFO - Test Case: Search by LastActivityDate
+01/28/2024 12:34:43 AM - root - INFO - Test Case: Search by LastActivityDate
+01/28/2024 12:34:43 AM - root - INFO - Test Case: Search by LastActivityDate
+01/28/2024 12:34:45 AM - root - ERROR - Test Case Failed.
+01/28/2024 12:34:45 AM - root - ERROR - Test Case Failed.
+01/28/2024 12:34:45 AM - root - ERROR - Test Case Failed.
+01/28/2024 12:34:45 AM - root - ERROR - Test Case Failed.
+01/28/2024 12:34:45 AM - root - ERROR - Something went wrong.
+01/28/2024 12:34:45 AM - root - ERROR - Something went wrong.
+01/28/2024 12:34:45 AM - root - ERROR - Something went wrong.
+01/28/2024 12:34:45 AM - root - ERROR - Something went wrong.
+01/28/2024 12:34:46 AM - root - INFO - Test Completed.
+01/28/2024 12:34:46 AM - root - INFO - Test Completed.
+01/28/2024 12:34:46 AM - root - INFO - Test Completed.
+01/28/2024 12:34:46 AM - root - INFO - Test Completed.
+01/28/2024 12:34:49 AM - root - INFO - Test_SearchCustomer__003
+01/28/2024 12:34:49 AM - root - INFO - Test_SearchCustomer__003
+01/28/2024 12:34:49 AM - root - INFO - Test_SearchCustomer__003
+01/28/2024 12:34:49 AM - root - INFO - Test_SearchCustomer__003
+01/28/2024 12:34:49 AM - root - INFO - Setup started
+01/28/2024 12:34:49 AM - root - INFO - Setup started
+01/28/2024 12:34:49 AM - root - INFO - Setup started
+01/28/2024 12:34:49 AM - root - INFO - Setup started
+01/28/2024 12:34:55 AM - root - INFO - Setup Completed
+01/28/2024 12:34:55 AM - root - INFO - Setup Completed
+01/28/2024 12:34:55 AM - root - INFO - Setup Completed
+01/28/2024 12:34:55 AM - root - INFO - Setup Completed
+01/28/2024 12:34:55 AM - root - INFO - Test Case: Search by Company
+01/28/2024 12:34:55 AM - root - INFO - Test Case: Search by Company
+01/28/2024 12:34:55 AM - root - INFO - Test Case: Search by Company
+01/28/2024 12:34:55 AM - root - INFO - Test Case: Search by Company
+01/28/2024 12:34:56 AM - root - INFO - Test Case Passed.
+01/28/2024 12:34:56 AM - root - INFO - Test Case Passed.
+01/28/2024 12:34:56 AM - root - INFO - Test Case Passed.
+01/28/2024 12:34:56 AM - root - INFO - Test Case Passed.
+01/28/2024 12:34:56 AM - root - INFO - Remark: data not found and it's expected.
+01/28/2024 12:34:56 AM - root - INFO - Remark: data not found and it's expected.
+01/28/2024 12:34:56 AM - root - INFO - Remark: data not found and it's expected.
+01/28/2024 12:34:56 AM - root - INFO - Remark: data not found and it's expected.
+01/28/2024 12:34:57 AM - root - INFO - Test Completed.
+01/28/2024 12:34:57 AM - root - INFO - Test Completed.
+01/28/2024 12:34:57 AM - root - INFO - Test Completed.
+01/28/2024 12:34:57 AM - root - INFO - Test Completed.
+01/28/2024 12:35:00 AM - root - INFO - Test_SearchCustomer__003
+01/28/2024 12:35:00 AM - root - INFO - Test_SearchCustomer__003
+01/28/2024 12:35:00 AM - root - INFO - Test_SearchCustomer__003
+01/28/2024 12:35:00 AM - root - INFO - Test_SearchCustomer__003
+01/28/2024 12:35:00 AM - root - INFO - Setup started
+01/28/2024 12:35:00 AM - root - INFO - Setup started
+01/28/2024 12:35:00 AM - root - INFO - Setup started
+01/28/2024 12:35:00 AM - root - INFO - Setup started
+01/28/2024 12:35:04 AM - root - INFO - Setup Completed
+01/28/2024 12:35:04 AM - root - INFO - Setup Completed
+01/28/2024 12:35:04 AM - root - INFO - Setup Completed
+01/28/2024 12:35:04 AM - root - INFO - Setup Completed
+01/28/2024 12:35:04 AM - root - INFO - Test Case: Search by CustomerRole
+01/28/2024 12:35:04 AM - root - INFO - Test Case: Search by CustomerRole
+01/28/2024 12:35:04 AM - root - INFO - Test Case: Search by CustomerRole
+01/28/2024 12:35:04 AM - root - INFO - Test Case: Search by CustomerRole
+01/28/2024 12:35:06 AM - root - ERROR - Test Case Failed.
+01/28/2024 12:35:06 AM - root - ERROR - Test Case Failed.
+01/28/2024 12:35:06 AM - root - ERROR - Test Case Failed.
+01/28/2024 12:35:06 AM - root - ERROR - Test Case Failed.
+01/28/2024 12:35:06 AM - root - ERROR - Something went wrong.
+01/28/2024 12:35:06 AM - root - ERROR - Something went wrong.
+01/28/2024 12:35:06 AM - root - ERROR - Something went wrong.
+01/28/2024 12:35:06 AM - root - ERROR - Something went wrong.
+01/28/2024 12:35:06 AM - root - INFO - Test Completed.
+01/28/2024 12:35:06 AM - root - INFO - Test Completed.
+01/28/2024 12:35:06 AM - root - INFO - Test Completed.
+01/28/2024 12:35:06 AM - root - INFO - Test Completed.
+01/28/2024 12:35:09 AM - root - INFO - ************ Test running in MicrosoftEdge browser ***************
+01/28/2024 12:35:09 AM - root - INFO - ************ Test running in MicrosoftEdge browser ***************
+01/28/2024 12:35:09 AM - root - INFO - ************ Test running in MicrosoftEdge browser ***************
+01/28/2024 12:35:09 AM - root - INFO - ************ Test running in MicrosoftEdge browser ***************
+01/28/2024 12:35:09 AM - root - INFO - *********** test_homePageTitle *************
+01/28/2024 12:35:09 AM - root - INFO - *********** test_homePageTitle *************
+01/28/2024 12:35:09 AM - root - INFO - *********** test_homePageTitle *************
+01/28/2024 12:35:09 AM - root - INFO - *********** test_homePageTitle *************
+01/28/2024 12:35:10 AM - root - INFO - *********** Pass *************
+01/28/2024 12:35:10 AM - root - INFO - *********** Pass *************
+01/28/2024 12:35:10 AM - root - INFO - *********** Pass *************
+01/28/2024 12:35:10 AM - root - INFO - *********** Pass *************
+01/28/2024 12:35:13 AM - root - INFO - ************ Test running in MicrosoftEdge browser ***************
+01/28/2024 12:35:13 AM - root - INFO - ************ Test running in MicrosoftEdge browser ***************
+01/28/2024 12:35:13 AM - root - INFO - ************ Test running in MicrosoftEdge browser ***************
+01/28/2024 12:35:13 AM - root - INFO - ************ Test running in MicrosoftEdge browser ***************
+01/28/2024 12:35:13 AM - root - INFO - *********** test_homePageTitle *************
+01/28/2024 12:35:13 AM - root - INFO - *********** test_homePageTitle *************
+01/28/2024 12:35:13 AM - root - INFO - *********** test_homePageTitle *************
+01/28/2024 12:35:13 AM - root - INFO - *********** test_homePageTitle *************
+01/28/2024 12:35:16 AM - root - INFO - *********** Pass *****************
+01/28/2024 12:35:16 AM - root - INFO - *********** Pass *****************
+01/28/2024 12:35:16 AM - root - INFO - *********** Pass *****************
+01/28/2024 12:35:16 AM - root - INFO - *********** Pass *****************
+01/28/2024 12:35:20 AM - root - INFO - Test running in MicrosoftEdge browser
+01/28/2024 12:35:20 AM - root - INFO - Test running in MicrosoftEdge browser
+01/28/2024 12:35:20 AM - root - INFO - Test running in MicrosoftEdge browser
+01/28/2024 12:35:20 AM - root - INFO - Test running in MicrosoftEdge browser
+01/28/2024 12:35:20 AM - root - INFO - Test_002_DDT_Login
+01/28/2024 12:35:20 AM - root - INFO - Test_002_DDT_Login
+01/28/2024 12:35:20 AM - root - INFO - Test_002_DDT_Login
+01/28/2024 12:35:20 AM - root - INFO - Test_002_DDT_Login
+01/28/2024 12:35:20 AM - root - INFO - Verifying Deta Driven Login Test
+01/28/2024 12:35:20 AM - root - INFO - Verifying Deta Driven Login Test
+01/28/2024 12:35:20 AM - root - INFO - Verifying Deta Driven Login Test
+01/28/2024 12:35:20 AM - root - INFO - Verifying Deta Driven Login Test
+01/28/2024 12:35:23 AM - root - INFO - Test Case Passed
+01/28/2024 12:35:23 AM - root - INFO - Test Case Passed
+01/28/2024 12:35:23 AM - root - INFO - Test Case Passed
+01/28/2024 12:35:23 AM - root - INFO - Test Case Passed
+01/28/2024 12:35:26 AM - root - INFO - Test Case Passed
+01/28/2024 12:35:26 AM - root - INFO - Test Case Passed
+01/28/2024 12:35:26 AM - root - INFO - Test Case Passed
+01/28/2024 12:35:26 AM - root - INFO - Test Case Passed
+01/28/2024 12:35:27 AM - root - INFO - Test Case Passed
+01/28/2024 12:35:27 AM - root - INFO - Test Case Passed
+01/28/2024 12:35:27 AM - root - INFO - Test Case Passed
+01/28/2024 12:35:27 AM - root - INFO - Test Case Passed
+01/28/2024 12:35:28 AM - root - INFO - Test Case Passed
+01/28/2024 12:35:28 AM - root - INFO - Test Case Passed
+01/28/2024 12:35:28 AM - root - INFO - Test Case Passed
+01/28/2024 12:35:28 AM - root - INFO - Test Case Passed
+01/28/2024 12:35:28 AM - root - INFO - Test Case Passed
+01/28/2024 12:35:28 AM - root - INFO - Test Case Passed
+01/28/2024 12:35:28 AM - root - INFO - Test Case Passed
+01/28/2024 12:35:28 AM - root - INFO - Test Case Passed
+01/28/2024 12:35:28 AM - root - INFO - Login Data Driven Test Passed
+01/28/2024 12:35:28 AM - root - INFO - Login Data Driven Test Passed
+01/28/2024 12:35:28 AM - root - INFO - Login Data Driven Test Passed
+01/28/2024 12:35:28 AM - root - INFO - Login Data Driven Test Passed
+01/28/2024 12:35:28 AM - root - INFO - End of Login Data Driven Testing
+01/28/2024 12:35:28 AM - root - INFO - End of Login Data Driven Testing
+01/28/2024 12:35:28 AM - root - INFO - End of Login Data Driven Testing
+01/28/2024 12:35:28 AM - root - INFO - End of Login Data Driven Testing
+01/28/2024 12:35:28 AM - root - INFO - Completed Test_002_DDT_Login
+01/28/2024 12:35:28 AM - root - INFO - Completed Test_002_DDT_Login
+01/28/2024 12:35:28 AM - root - INFO - Completed Test_002_DDT_Login
+01/28/2024 12:35:28 AM - root - INFO - Completed Test_002_DDT_Login
+01/28/2024 12:43:28 AM - root - INFO - Test_AddNewCustomer Started...
+01/28/2024 12:43:28 AM - root - INFO - Test_AddNewCustomer Started...
+01/28/2024 12:43:28 AM - root - INFO - Test_AddNewCustomer Started...
+01/28/2024 12:43:28 AM - root - INFO - Test_AddNewCustomer Started...
+01/28/2024 12:43:28 AM - root - INFO - Setup of Test Add New Customer Started...
+01/28/2024 12:43:28 AM - root - INFO - Setup of Test Add New Customer Started...
+01/28/2024 12:43:28 AM - root - INFO - Setup of Test Add New Customer Started...
+01/28/2024 12:43:28 AM - root - INFO - Setup of Test Add New Customer Started...
+01/28/2024 12:43:28 AM - root - INFO - Testing in MicrosoftEdge browser
+01/28/2024 12:43:28 AM - root - INFO - Testing in MicrosoftEdge browser
+01/28/2024 12:43:28 AM - root - INFO - Testing in MicrosoftEdge browser
+01/28/2024 12:43:28 AM - root - INFO - Testing in MicrosoftEdge browser
+01/28/2024 12:43:32 AM - root - INFO - Log in successful
+01/28/2024 12:43:32 AM - root - INFO - Log in successful
+01/28/2024 12:43:32 AM - root - INFO - Log in successful
+01/28/2024 12:43:32 AM - root - INFO - Log in successful
+01/28/2024 12:43:32 AM - root - INFO - Setup completed
+01/28/2024 12:43:32 AM - root - INFO - Setup completed
+01/28/2024 12:43:32 AM - root - INFO - Setup completed
+01/28/2024 12:43:32 AM - root - INFO - Setup completed
+01/28/2024 12:43:32 AM - root - INFO - Add New Customer Started...
+01/28/2024 12:43:32 AM - root - INFO - Add New Customer Started...
+01/28/2024 12:43:32 AM - root - INFO - Add New Customer Started...
+01/28/2024 12:43:32 AM - root - INFO - Add New Customer Started...
+01/28/2024 12:43:35 AM - root - INFO - Providing customer details
+01/28/2024 12:43:35 AM - root - INFO - Providing customer details
+01/28/2024 12:43:35 AM - root - INFO - Providing customer details
+01/28/2024 12:43:35 AM - root - INFO - Providing customer details
+01/28/2024 12:43:35 AM - root - INFO - User Data : {'first_name': 'Pawan', 'last_name': 'Yadav', 'email': 'pawan_yadav768@gmail.com', 'password': 'TDBsDlPi', 'gender': 'Male', 'birth_date': '01-01-1969', 'company_name': 'TCS', 'comment': 'Random comment for user Pawan Yadav', 'tax_exempt': True, 'manager_vendor': '1', 'account_status': True, 'newsletter': ['Test store 2'], 'customer_role': ['Administrators']}
+01/28/2024 12:43:35 AM - root - INFO - User Data : {'first_name': 'Pawan', 'last_name': 'Yadav', 'email': 'pawan_yadav768@gmail.com', 'password': 'TDBsDlPi', 'gender': 'Male', 'birth_date': '01-01-1969', 'company_name': 'TCS', 'comment': 'Random comment for user Pawan Yadav', 'tax_exempt': True, 'manager_vendor': '1', 'account_status': True, 'newsletter': ['Test store 2'], 'customer_role': ['Administrators']}
+01/28/2024 12:43:35 AM - root - INFO - User Data : {'first_name': 'Pawan', 'last_name': 'Yadav', 'email': 'pawan_yadav768@gmail.com', 'password': 'TDBsDlPi', 'gender': 'Male', 'birth_date': '01-01-1969', 'company_name': 'TCS', 'comment': 'Random comment for user Pawan Yadav', 'tax_exempt': True, 'manager_vendor': '1', 'account_status': True, 'newsletter': ['Test store 2'], 'customer_role': ['Administrators']}
+01/28/2024 12:43:35 AM - root - INFO - User Data : {'first_name': 'Pawan', 'last_name': 'Yadav', 'email': 'pawan_yadav768@gmail.com', 'password': 'TDBsDlPi', 'gender': 'Male', 'birth_date': '01-01-1969', 'company_name': 'TCS', 'comment': 'Random comment for user Pawan Yadav', 'tax_exempt': True, 'manager_vendor': '1', 'account_status': True, 'newsletter': ['Test store 2'], 'customer_role': ['Administrators']}
+01/28/2024 12:43:39 AM - root - INFO - Saving customer info...
+01/28/2024 12:43:39 AM - root - INFO - Saving customer info...
+01/28/2024 12:43:39 AM - root - INFO - Saving customer info...
+01/28/2024 12:43:39 AM - root - INFO - Saving customer info...
+01/28/2024 12:43:44 AM - root - WARNING - Alert On Save: ["×\nAdd the customer to 'Guests' or 'Registered' customer role"]
+01/28/2024 12:43:44 AM - root - WARNING - Alert On Save: ["×\nAdd the customer to 'Guests' or 'Registered' customer role"]
+01/28/2024 12:43:44 AM - root - WARNING - Alert On Save: ["×\nAdd the customer to 'Guests' or 'Registered' customer role"]
+01/28/2024 12:43:44 AM - root - WARNING - Alert On Save: ["×\nAdd the customer to 'Guests' or 'Registered' customer role"]
+01/28/2024 12:43:44 AM - root - WARNING - Test Failed
+01/28/2024 12:43:44 AM - root - WARNING - Test Failed
+01/28/2024 12:43:44 AM - root - WARNING - Test Failed
+01/28/2024 12:43:44 AM - root - WARNING - Test Failed
+01/28/2024 12:43:44 AM - root - INFO - Test completed
+01/28/2024 12:43:44 AM - root - INFO - Test completed
+01/28/2024 12:43:44 AM - root - INFO - Test completed
+01/28/2024 12:43:44 AM - root - INFO - Test completed
+01/28/2024 12:43:48 AM - root - INFO - Test_SearchCustomer__003
+01/28/2024 12:43:48 AM - root - INFO - Test_SearchCustomer__003
+01/28/2024 12:43:48 AM - root - INFO - Test_SearchCustomer__003
+01/28/2024 12:43:48 AM - root - INFO - Test_SearchCustomer__003
+01/28/2024 12:43:48 AM - root - INFO - Setup started
+01/28/2024 12:43:48 AM - root - INFO - Setup started
+01/28/2024 12:43:48 AM - root - INFO - Setup started
+01/28/2024 12:43:48 AM - root - INFO - Setup started
+01/28/2024 12:43:54 AM - root - INFO - Setup Completed
+01/28/2024 12:43:54 AM - root - INFO - Setup Completed
+01/28/2024 12:43:54 AM - root - INFO - Setup Completed
+01/28/2024 12:43:54 AM - root - INFO - Setup Completed
+01/28/2024 12:43:54 AM - root - INFO - Test Case: Search by Email
+01/28/2024 12:43:54 AM - root - INFO - Test Case: Search by Email
+01/28/2024 12:43:54 AM - root - INFO - Test Case: Search by Email
+01/28/2024 12:43:54 AM - root - INFO - Test Case: Search by Email
+01/28/2024 12:43:56 AM - root - INFO - Test Case Passed.
+01/28/2024 12:43:56 AM - root - INFO - Test Case Passed.
+01/28/2024 12:43:56 AM - root - INFO - Test Case Passed.
+01/28/2024 12:43:56 AM - root - INFO - Test Case Passed.
+01/28/2024 12:43:56 AM - root - INFO - Remark: data not found and it's expected.
+01/28/2024 12:43:56 AM - root - INFO - Remark: data not found and it's expected.
+01/28/2024 12:43:56 AM - root - INFO - Remark: data not found and it's expected.
+01/28/2024 12:43:56 AM - root - INFO - Remark: data not found and it's expected.
+01/28/2024 12:43:56 AM - root - INFO - Test Completed.
+01/28/2024 12:43:56 AM - root - INFO - Test Completed.
+01/28/2024 12:43:56 AM - root - INFO - Test Completed.
+01/28/2024 12:43:56 AM - root - INFO - Test Completed.
+01/28/2024 12:43:59 AM - root - INFO - Test_SearchCustomer__003
+01/28/2024 12:43:59 AM - root - INFO - Test_SearchCustomer__003
+01/28/2024 12:43:59 AM - root - INFO - Test_SearchCustomer__003
+01/28/2024 12:43:59 AM - root - INFO - Test_SearchCustomer__003
+01/28/2024 12:43:59 AM - root - INFO - Setup started
+01/28/2024 12:43:59 AM - root - INFO - Setup started
+01/28/2024 12:43:59 AM - root - INFO - Setup started
+01/28/2024 12:43:59 AM - root - INFO - Setup started
+01/28/2024 12:44:05 AM - root - INFO - Setup Completed
+01/28/2024 12:44:05 AM - root - INFO - Setup Completed
+01/28/2024 12:44:05 AM - root - INFO - Setup Completed
+01/28/2024 12:44:05 AM - root - INFO - Setup Completed
+01/28/2024 12:44:05 AM - root - INFO - Test Case: Search by FirstName
+01/28/2024 12:44:05 AM - root - INFO - Test Case: Search by FirstName
+01/28/2024 12:44:05 AM - root - INFO - Test Case: Search by FirstName
+01/28/2024 12:44:05 AM - root - INFO - Test Case: Search by FirstName
+01/28/2024 12:44:06 AM - root - INFO - Test Case Passed.
+01/28/2024 12:44:06 AM - root - INFO - Test Case Passed.
+01/28/2024 12:44:06 AM - root - INFO - Test Case Passed.
+01/28/2024 12:44:06 AM - root - INFO - Test Case Passed.
+01/28/2024 12:44:06 AM - root - INFO - Remark: data not found and it's expected.
+01/28/2024 12:44:06 AM - root - INFO - Remark: data not found and it's expected.
+01/28/2024 12:44:06 AM - root - INFO - Remark: data not found and it's expected.
+01/28/2024 12:44:06 AM - root - INFO - Remark: data not found and it's expected.
+01/28/2024 12:44:07 AM - root - INFO - Test Completed.
+01/28/2024 12:44:07 AM - root - INFO - Test Completed.
+01/28/2024 12:44:07 AM - root - INFO - Test Completed.
+01/28/2024 12:44:07 AM - root - INFO - Test Completed.
+01/28/2024 12:44:10 AM - root - INFO - ************ Test running in MicrosoftEdge browser ***************
+01/28/2024 12:44:10 AM - root - INFO - ************ Test running in MicrosoftEdge browser ***************
+01/28/2024 12:44:10 AM - root - INFO - ************ Test running in MicrosoftEdge browser ***************
+01/28/2024 12:44:10 AM - root - INFO - ************ Test running in MicrosoftEdge browser ***************
+01/28/2024 12:44:10 AM - root - INFO - *********** test_homePageTitle *************
+01/28/2024 12:44:10 AM - root - INFO - *********** test_homePageTitle *************
+01/28/2024 12:44:10 AM - root - INFO - *********** test_homePageTitle *************
+01/28/2024 12:44:10 AM - root - INFO - *********** test_homePageTitle *************
+01/28/2024 12:44:14 AM - root - INFO - *********** Pass *****************
+01/28/2024 12:44:14 AM - root - INFO - *********** Pass *****************
+01/28/2024 12:44:14 AM - root - INFO - *********** Pass *****************
+01/28/2024 12:44:14 AM - root - INFO - *********** Pass *****************

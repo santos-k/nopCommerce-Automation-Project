@@ -90,26 +90,36 @@ class Test_SearchCustomer_003:
             self.element.screenshot(f".//Screenshots/SearchCustomer_{self.search_by}_DataFound_Fail.png")
             assert False
 
+    @pytest.mark.sanity
+    @pytest.mark.regression
     def test_search_by_email(self, search_setup):
         self.search_customer_setup(search_setup, 'Email', 'sakshi12@gmail.com', 'sakshi12@gmail.com')
 
+    @pytest.mark.sanity
+    @pytest.mark.regression
     def test_search_by_firstname(self, search_setup):
         self.search_customer_setup(search_setup, 'FirstName', 'sakshi', 'sakshi')
 
+    @pytest.mark.regression
     def test_search_by_lastname(self, search_setup):
         self.search_customer_setup(search_setup, 'LastName', 'maurya', 'maurya')
 
+    @pytest.mark.regression
     def test_search_by_birthdate(self, search_setup):
         self.search_customer_setup(search_setup, 'BirthDate', [6, 16], 'test1@random.com')
 
+    @pytest.mark.regression
     def test_search_by_registration_date(self, search_setup):
         self.search_customer_setup(search_setup, 'RegistrationDate', ['1/25/2024', '1/27/2024'], 'test1@random.com')
 
+    @pytest.mark.regression
     def test_search_by_activity_date(self, search_setup):
         self.search_customer_setup(search_setup, 'LastActivityDate', ['1/25/2024', '1/27/2024'], 'test1@random.com')
 
+    @pytest.mark.regression
     def test_search_by_company_name(self, search_setup):
         self.search_customer_setup(search_setup, 'Company', "Codestdio", 'test1@random.com')
 
+    @pytest.mark.regression
     def test_search_by_customer_role(self, search_setup):
         self.search_customer_setup(search_setup, 'CustomerRole', ['Registered', 'Administrators'], 'test1@random.com')

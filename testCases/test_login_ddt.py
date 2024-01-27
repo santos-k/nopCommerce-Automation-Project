@@ -1,4 +1,5 @@
-import time
+import pytest
+
 from pageObjects.LoginPage import LoginPage
 from utilities.readProperties import ReadConfig
 from utilities.customLogger import LogGen
@@ -11,6 +12,7 @@ class Test_002_DDT_Login:
     password = ReadConfig.getAdminPassword()
     logger = LogGen.loggen()
 
+    @pytest.mark.regression
     def test_login_ddt(self, setup):
         self.driver = setup
         self.logger.info(f"Test running in {self.driver.capabilities['browserName']} browser")

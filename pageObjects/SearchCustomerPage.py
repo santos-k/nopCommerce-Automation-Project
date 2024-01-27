@@ -93,5 +93,3 @@ class SearchCustomer:
     def getTableData(self):
         table_records = self.driver.find_element(By.XPATH, self.searchResult_Table_Body_xpath)
         return table_records.text.lower()
-
-

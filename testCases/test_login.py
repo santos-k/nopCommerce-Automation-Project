@@ -1,6 +1,7 @@
 from pageObjects.LoginPage import LoginPage
 from utilities.readProperties import ReadConfig
 from utilities.customLogger import LogGen
+import pytest
 
 
 class Test_001_Login:
@@ -9,6 +10,7 @@ class Test_001_Login:
     password = ReadConfig.getAdminPassword()
     logger = LogGen.loggen()
 
+    @pytest.mark.regression
     def test_homePageTitle(self, setup):
         self.driver = setup
         self.logger.info(f"************ Test running in {self.driver.capabilities['browserName']} browser ***************")
@@ -23,6 +25,8 @@ class Test_001_Login:
             self.driver.save_screenshot(".\\Screenshots\\test_homePageTitle.png")
             assert False
 
+    @pytest.mark.sanity
+    @pytest.mark.regression
     def test_loginPageTitle(self, setup):
         self.driver = setup
         self.logger.info(f"************ Test running in {self.driver.capabilities['browserName']} browser ***************")

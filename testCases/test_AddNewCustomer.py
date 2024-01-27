@@ -1,3 +1,5 @@
+import pytest
+
 from pageObjects.LoginPage import LoginPage
 from pageObjects.AddNewCustomerPage import AddNewCustomer
 from utilities.readProperties import ReadConfig
@@ -11,6 +13,7 @@ class Test_AddNewCustomer:
     password = ReadConfig.getAdminPassword()
     logger = LogGen.loggen()
 
+    @pytest.mark.sanity
     def test_AddNewCustomer(self, setup):
         self.logger.info("Test_AddNewCustomer Started...")
         self.logger.info("Setup of Test Add New Customer Started...")
