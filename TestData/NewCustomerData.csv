@@ -1,0 +1,11 @@
+first_name,last_name,email,password,gender,birth_date,company_name,comment,tax_exempt,manager_vendor,account_status,newsletter,customer_role,Customer_Created
+Pankaj,Pandey,pankaj_pandey796@gmail.com,FRAho8Bs,Male,09-17-1977,TCS,Random comment for user Pankaj Pandey,True,1,True,['Test store 2'],['Registered'],Created
+Pankaj,Sharma,pankaj_sharma131@gmail.com,yvHadcau,Male,06-14-1980,HCL,Random comment for user Pankaj Sharma,True,1,True,['Test store 2'],['Guests'],Created
+Pawan,Singh,pawan_singh487@gmail.com,4XRRchqO,Male,08-03-2000,Wipro,Random comment for user Pawan Singh,False,2,False,['Your store name'],['Administrators'],Not Created
+Pankaj,Saini,pankaj_saini825@gmail.com,GYgUHlon,Male,08-16-1976,Wipro,Random comment for user Pankaj Saini,False,2,False,['Test store 2'],['Administrators'],Not Created
+Arun,Pandey,arun_pandey683@gmail.com,6RUWPgzH,Male,07-26-2000,Wipro,Random comment for user Arun Pandey,True,1,True,['Test store 2'],['Administrators'],Not Created
+Pankaj,Sharma,pankaj_sharma701@gmail.com,MM4yvxBm,Male,08-23-1968,TCS,Random comment for user Pankaj Sharma,True,1,True,['Test store 2'],['Administrators'],Not Created
+Rupa,Sharma,rupa_sharma164@gmail.com,uDA6VoWA,Female,04-09-1999,TCS,Random comment for user Rupa Sharma,True,2,False,['Test store 2'],['Guests'],Created
+Priyanka,Singh,priyanka_singh864@gmail.com,q6IEIyFm,Female,05-16-1979,TCS,Random comment for user Priyanka Singh,True,1,True,['Your store name'],['Registered'],Created
+Rupa,Singh,rupa_singh607@gmail.com,32VlVfob,Female,03-24-1965,HCL,Random comment for user Rupa Singh,False,1,True,['Test store 2'],['Guests'],Created
+Rupa,Yadav,rupa_yadav125@gmail.com,UldsWSV8,Female,03-14-1991,Walmart,Random comment for user Rupa Yadav,False,2,False,['Test store 2'],['Administrators'],Not Created

@@ -53,7 +53,7 @@ class Test_002_DDT_Login:
                     list_status.append("Pass")
 
         if "Fail" not in list_status:
-            self.logger.error("Login Data Driven Test Passed")
+            self.logger.info("Login Data Driven Test Passed")
             assert True
         else:
             self.logger.error("Login Data Driven Test Failed")

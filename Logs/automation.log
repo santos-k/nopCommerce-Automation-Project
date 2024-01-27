@@ -263,3 +263,28 @@
 01/25/2024 09:47:51 PM - root - ERROR - Login Data Driven Test Passed
 01/25/2024 09:47:51 PM - root - INFO - End of Login Data Driven Testing
 01/25/2024 09:47:51 PM - root - INFO - Completed Test_002_DDT_Login
+01/27/2024 12:04:29 PM - root - INFO - Test_AddNewCustomer Started...
+01/27/2024 12:04:29 PM - root - INFO - Setup of Test Add New Customer Started...
+01/27/2024 12:04:29 PM - root - INFO - Testing in chrome browser
+01/27/2024 12:04:32 PM - root - INFO - Log in successful
+01/27/2024 12:04:32 PM - root - INFO - Setup completed
+01/27/2024 12:04:32 PM - root - INFO - Add New Customer Started...
+01/27/2024 12:04:36 PM - root - INFO - Providing customer details
+01/27/2024 12:04:36 PM - root - INFO - User Data : {'first_name': 'Rupa', 'last_name': 'Singh', 'email': 'rupa_singh607@gmail.com', 'password': '32VlVfob', 'gender': 'Female', 'birth_date': '03-24-1965', 'company_name': 'HCL', 'comment': 'Random comment for user Rupa Singh', 'tax_exempt': False, 'manager_vendor': '1', 'account_status': True, 'newsletter': ['Test store 2'], 'customer_role': ['Guests']}
+01/27/2024 12:04:39 PM - root - INFO - Saving customer info...
+01/27/2024 12:04:40 PM - root - INFO - Alert On Save: �
+The new customer has been added successfully.
+01/27/2024 12:04:40 PM - root - INFO - Test Passed
+01/27/2024 12:04:40 PM - root - INFO - Test completed
+01/27/2024 12:04:45 PM - root - INFO - Test_AddNewCustomer Started...
+01/27/2024 12:04:45 PM - root - INFO - Setup of Test Add New Customer Started...
+01/27/2024 12:04:45 PM - root - INFO - Testing in chrome browser
+01/27/2024 12:04:50 PM - root - INFO - Log in successful
+01/27/2024 12:04:50 PM - root - INFO - Setup completed
+01/27/2024 12:04:50 PM - root - INFO - Add New Customer Started...
+01/27/2024 12:04:53 PM - root - INFO - Providing customer details
+01/27/2024 12:04:53 PM - root - INFO - User Data : {'first_name': 'Rupa', 'last_name': 'Yadav', 'email': 'rupa_yadav125@gmail.com', 'password': 'UldsWSV8', 'gender': 'Female', 'birth_date': '03-14-1991', 'company_name': 'Walmart', 'comment': 'Random comment for user Rupa Yadav', 'tax_exempt': False, 'manager_vendor': '2', 'account_status': False, 'newsletter': ['Test store 2'], 'customer_role': ['Administrators']}
+01/27/2024 12:04:56 PM - root - INFO - Saving customer info...
+01/27/2024 12:05:01 PM - root - WARNING - Alert On Save: ["�\nAdd the customer to 'Guests' or 'Registered' customer role"]
+01/27/2024 12:05:01 PM - root - WARNING - Test Failed
+01/27/2024 12:05:01 PM - root - INFO - Test completed
