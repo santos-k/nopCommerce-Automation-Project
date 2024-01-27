@@ -1,3 +1,5 @@
+import time
+
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver.common.by import By
 
@@ -102,6 +104,7 @@ class AddNewCustomer:
         self.driver.execute_script("arguments[0].style.display='block'; arguments[0].click();", select_element)
         select_option = Select(select_element)
         select_option.deselect_all()
+        time.sleep(1)
         for role in roles:
             select_option.select_by_visible_text(role)
 
@@ -120,4 +123,3 @@ class AddNewCustomer:
 
     def getBackToCustomerList(self):
         self.driver.find_element(By.LINK_TEXT, self.backToCustomerList_link_text).click()
-

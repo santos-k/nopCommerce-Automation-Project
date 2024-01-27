@@ -3,6 +3,7 @@ import string
 import os
 import csv
 from datetime import datetime, timedelta
+import pandas as pd
 
 
 # Function to generate random new customer data
@@ -42,7 +43,7 @@ def generate_random_user():
         "manager_vendor": random.choice(['1', '2']),
         "account_status": random.choice([True, False]),
         "newsletter": [random.choice(["Your store name", "Test store 2"])],
-        "customer_role": [random.choice(["Registered", "Administrators", "Guests"])]
+        "customer_role": [random.choice(["Registered", "Guests", "Administrators"])]
     }
 
 
@@ -54,3 +55,4 @@ def saveNewCustomerData2CSV(data, filename):
         if not file_exists:
             writer.writeheader()
         writer.writerow(data)
+
