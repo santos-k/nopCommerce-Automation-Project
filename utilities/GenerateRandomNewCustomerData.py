@@ -43,7 +43,7 @@ def generate_random_user():
         "manager_vendor": random.choice(['1', '2']),
         "account_status": random.choice([True, False]),
         "newsletter": [random.choice(["Your store name", "Test store 2"])],
-        "customer_role": [random.choice(["Registered", "Guests", "Administrators"])]
+        "customer_role": random.choice([['Registered'], ['Guests'], ['Registered', 'Administrators'], ['Registered', 'Forum Moderators'], ['Registered', 'Vendors'], ['Registered', 'Administrators', 'Forum Moderators'], ['Registered', 'Administrators', 'Forum Moderators', 'Vendors']])
     }
 
 
@@ -55,4 +55,21 @@ def saveNewCustomerData2CSV(data, filename):
         if not file_exists:
             writer.writeheader()
         writer.writerow(data)
+
+
+def getDataForSearch():
+    """
+    Reads customer data from a CSV file and returns information about the most recently created customer.
+
+    Returns:
+    - list of dict: A list containing a dictionary with information about the most recently created customer.
+                    The dictionary keys represent different attributes (e.g., 'first_name', 'last_name'),
+                    and the values represent the corresponding values for the customer.
+    """
+
+    # Read the CSV file into a DataFrame
+    df = pd.read_csv(".//TestData/NewCustomerData.csv")
+    ndf = df[df['Customer_Created'] == 'Created'].sort_index(ascending=False).head(2)
+    record_dict = ndf.to_dict(orient='records')
+    return record_dict[0]
 
