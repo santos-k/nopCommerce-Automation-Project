@@ -1556,3 +1556,88 @@ The new customer has been added successfully.
 01/28/2024 09:29:48 PM - root - INFO - Test Case Passed.
 01/28/2024 09:29:48 PM - root - INFO - Remark: searched data found.
 01/28/2024 09:29:48 PM - root - INFO - Test Completed.
+01/28/2024 09:41:11 PM - root - INFO - Test_SearchCustomer__003
+01/28/2024 09:41:11 PM - root - INFO - Setup started
+01/28/2024 09:41:17 PM - root - INFO - Setup Completed
+01/28/2024 09:41:17 PM - root - INFO - Test Case: Search by Email
+01/28/2024 09:41:19 PM - root - INFO - Test Case Passed.
+01/28/2024 09:41:19 PM - root - INFO - Remark: searched data found.
+01/28/2024 09:41:19 PM - root - INFO - Test Completed.
+01/28/2024 09:41:21 PM - root - INFO - Test_SearchCustomer__003
+01/28/2024 09:41:21 PM - root - INFO - Setup started
+01/28/2024 09:41:27 PM - root - INFO - Setup Completed
+01/28/2024 09:41:27 PM - root - INFO - Test Case: Search by FirstName
+01/28/2024 09:41:29 PM - root - INFO - Test Case Passed.
+01/28/2024 09:41:29 PM - root - INFO - Remark: searched data found.
+01/28/2024 09:41:29 PM - root - INFO - Test Completed.
+01/28/2024 09:41:31 PM - root - INFO - Test_SearchCustomer__003
+01/28/2024 09:41:31 PM - root - INFO - Setup started
+01/28/2024 09:41:36 PM - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020DD7E229D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7c173b2aebca4cd7c6e96ee99e2c161e/window
+01/28/2024 09:41:40 PM - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020DD7E22E80>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7c173b2aebca4cd7c6e96ee99e2c161e/window
+01/28/2024 09:41:44 PM - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020DD7E22F70>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7c173b2aebca4cd7c6e96ee99e2c161e/window
+01/28/2024 09:59:12 PM - root - INFO - Test_SearchCustomer__003
+01/28/2024 09:59:12 PM - root - INFO - Setup started
+01/28/2024 09:59:18 PM - root - INFO - Setup Completed
+01/28/2024 09:59:18 PM - root - INFO - Test Case: Search by Email
+01/28/2024 09:59:20 PM - root - INFO - Test Case Passed.
+01/28/2024 09:59:20 PM - root - INFO - Remark: searched data found.
+01/28/2024 09:59:20 PM - root - INFO - Test Completed.
+01/28/2024 09:59:22 PM - root - INFO - Test_SearchCustomer__003
+01/28/2024 09:59:22 PM - root - INFO - Setup started
+01/28/2024 09:59:28 PM - root - INFO - Setup Completed
+01/28/2024 09:59:28 PM - root - INFO - Test Case: Search by FirstName
+01/28/2024 09:59:29 PM - root - INFO - Test Case Passed.
+01/28/2024 09:59:29 PM - root - INFO - Remark: searched data found.
+01/28/2024 09:59:29 PM - root - INFO - Test Completed.
+01/28/2024 09:59:31 PM - root - INFO - Test_SearchCustomer__003
+01/28/2024 09:59:31 PM - root - INFO - Setup started
+01/28/2024 09:59:37 PM - root - INFO - Setup Completed
+01/28/2024 09:59:37 PM - root - INFO - Test Case: Search by LastName
+01/28/2024 09:59:39 PM - root - INFO - Test Case Passed.
+01/28/2024 09:59:39 PM - root - INFO - Remark: searched data found.
+01/28/2024 09:59:39 PM - root - INFO - Test Completed.
+01/28/2024 09:59:41 PM - root - INFO - Test_SearchCustomer__003
+01/28/2024 09:59:41 PM - root - INFO - Setup started
+01/28/2024 09:59:45 PM - root - INFO - Setup Completed
+01/28/2024 09:59:45 PM - root - INFO - Test Case: Search by BirthDate
+01/28/2024 09:59:47 PM - root - INFO - Test Case Passed.
+01/28/2024 09:59:47 PM - root - INFO - Remark: searched data found.
+01/28/2024 09:59:47 PM - root - INFO - Test Completed.
+01/28/2024 09:59:49 PM - root - INFO - Test_SearchCustomer__003
+01/28/2024 09:59:49 PM - root - INFO - Setup started
+01/28/2024 09:59:56 PM - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000016FAEFEEBE0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/27eb61605e80373db3fd43497134149e/window
+01/28/2024 10:00:00 PM - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000016FAEFEECD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/27eb61605e80373db3fd43497134149e/window
+01/28/2024 10:00:04 PM - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000016FAEFEEEE0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/27eb61605e80373db3fd43497134149e/window
+01/28/2024 10:07:51 PM - root - INFO - Test_SearchCustomer__003
+01/28/2024 10:07:51 PM - root - INFO - Setup started
+01/28/2024 10:07:58 PM - root - INFO - Setup Completed
+01/28/2024 10:07:58 PM - root - INFO - Test Case: Search by Email
+01/28/2024 10:08:00 PM - root - INFO - Test Case Passed.
+01/28/2024 10:08:00 PM - root - INFO - Remark: searched data found.
+01/28/2024 10:08:00 PM - root - INFO - Test Completed.
+01/28/2024 10:08:02 PM - root - INFO - Test_SearchCustomer__003
+01/28/2024 10:08:02 PM - root - INFO - Setup started
+01/28/2024 10:08:08 PM - root - INFO - Setup Completed
+01/28/2024 10:08:08 PM - root - INFO - Test Case: Search by FirstName
+01/28/2024 10:08:10 PM - root - INFO - Test Case Passed.
+01/28/2024 10:08:10 PM - root - INFO - Remark: searched data found.
+01/28/2024 10:08:10 PM - root - INFO - Test Completed.
+01/28/2024 10:08:12 PM - root - INFO - Test_SearchCustomer__003
+01/28/2024 10:08:12 PM - root - INFO - Setup started
+01/28/2024 10:08:17 PM - root - INFO - Setup Completed
+01/28/2024 10:08:17 PM - root - INFO - Test Case: Search by LastName
+01/28/2024 10:08:19 PM - root - INFO - Test Case Passed.
+01/28/2024 10:08:19 PM - root - INFO - Remark: searched data found.
+01/28/2024 10:08:19 PM - root - INFO - Test Completed.
+01/28/2024 10:08:21 PM - root - INFO - Test_SearchCustomer__003
+01/28/2024 10:08:21 PM - root - INFO - Setup started
+01/28/2024 10:08:26 PM - root - INFO - Setup Completed
+01/28/2024 10:08:26 PM - root - INFO - Test Case: Search by BirthDate
+01/28/2024 10:08:28 PM - root - INFO - Test Case Passed.
+01/28/2024 10:08:28 PM - root - INFO - Remark: searched data found.
+01/28/2024 10:08:28 PM - root - INFO - Test Completed.
+01/28/2024 10:08:30 PM - root - INFO - Test_SearchCustomer__003
+01/28/2024 10:08:30 PM - root - INFO - Setup started
+01/28/2024 10:08:38 PM - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EBD95C5A30>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ef46bf11554e20e8b18e4e5cf5b73d73/window
+01/28/2024 10:08:42 PM - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EBD95C5C10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ef46bf11554e20e8b18e4e5cf5b73d73/window
+01/28/2024 10:08:46 PM - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EBD95C5EE0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ef46bf11554e20e8b18e4e5cf5b73d73/window
